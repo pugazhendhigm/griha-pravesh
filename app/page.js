@@ -124,7 +124,8 @@ export default function Page() {
       <section id="s3">
         <div className="orn rv" />
         <p className="names ta rv d1">
-          சென்னை, தெய்வத்திரு <span>G. முருகன்</span> –<br />
+          சென்னை,<br />
+          தெய்வத்திரு <span>G. முருகன்</span> –<br />
           திருமதி <span>S. விஜயலட்சுமி</span> BA.,<br />
           <small style={{ fontSize: 15, fontWeight: 500 }}>
             கண்காணிப்பாளர், த.நா.ந.வா.மே. வாரியம்<br />அவர்களால் அமைக்க பெற்ற
