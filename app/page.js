@@ -137,7 +137,7 @@ export default function Page() {
         <p className="ta rv d3" style={{ marginTop: 26, fontSize: 'clamp(18px,3.6vw,24px)' }}>தங்கள் வரவை அன்புடன் எதிர்நோக்கும்:</p>
         <p className="eyebrow rv d3">Awaiting your arrival with love:</p>
         <p className="names ta rv d3">
-          <span>G.M. புகழேந்தி</span> MCA.,<br /><span>G.M. பிரியதர்ஷினி</span> B.Com.,
+          <span>G.M. புகழேந்தி</span> MCA.,<br /><span>G.M. பிரியதர்ஷினி</span> B.Com.,<br /><span>R. பிரவீணா</span> MBA.,
         </p>
       </section>
 
